@@ -1,0 +1,1 @@
+001) Updated package.json dependencies (nodemon,exoress,cors), changed "main" to app.js // added "start" to app.js. // added Resturaunt.json => assets // added homepage.js => controllers

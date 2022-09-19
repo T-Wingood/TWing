@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "name": "La Morra",
+        "cuisine": "Italian",
+        "address": "48 Boylston St, Brookline, MA 02445",
+        "latitudeAndLongitude": {
+            "latitude" : 42.331439182910266, 
+            "longitude": -71.11825695853135
+        },
+        "phoneNumber": "1-617-739-0007",
+        "hours": { 
+            "Sunday" : " 5:30 - 9:00",
+            "Monday" : " 4:30 - 10:00",
+            "Tuesday" : " 4:30 - 9:00",
+            "Wednesday" : " 4:30 - 9:00",
+            "Thursday" : " 4:30 - 9:00",
+            "Friday" : " 6:30 - 11:00",
+            "Saturday" : " 6:30 - 11:00"
+    },
+        "about": "Busy, cozy restaurant serving homemade pasta & Tuscan-style wood-grilled entrees in a compact space."
+    },
+    {
+        "id": 2,
+        "name": "Omori Izakaya Brookline",
+        "cuisine": "Japanese",
+        "address": "195 Washington St, Brookline, MA 02445",
+        "latitudeAndLongitude": {
+            "latitude" : 42.33231758127847, 
+            "longitude": -71.11785462699214
+        },
+        "phoneNumber": "1-617-505-5924",
+        "hours": { 
+            "Sunday" : " 2:30 - 10:00",
+            "Monday" : " 2:30 - 10:00",
+            "Tuesday" : " Closed",
+            "Wednesday" : " Closed",
+            "Thursday" : " Closed",
+            "Friday" : " 3:30 - 11:30",
+            "Saturday" : " 3:30 - 11:30"
+    },
+        "about": "Sushi, ramen & other classics are complemented by sake & draft beer at this easygoing Japanese pub"
+    },
+    {
+        "id": 3,
+        "name": "Migaku Noodle House",
+        "cuisine": "Japanese",
+        "address": "238 Washington St, Brookline, MA 02445",
+        "latitudeAndLongitude": {
+            "latitude" : 42.33276966412846, 
+            "longitude": -71.11858418784747
+        },
+        "phoneNumber": "1-617-608-3141",
+        "hours": { 
+            "Sunday" : " 6:00 - 9:00",
+            "Monday" : " 5:30 - 9:00",
+            "Tuesday" : " Closed",
+            "Wednesday" : " Closed",
+            "Thursday" : " 5:30 - 9:00",
+            "Friday" : " 5:30 - 9:00",
+            "Saturday" : " 4:30 - 10:00"
+    },
+        "about": "Delicious Ramen noodles, with more noodles, oodles of noodles. Noodles and kadoodles, that brim with more noodles. (This resturaunt did not have an about page)"
+    },
+    {
+        "id": 4,
+        "name": "Anatolia",
+        "cuisine": "Turkish",
+        "address": "305 Washington St, Brookline, MA 02445",
+        "latitudeAndLongitude": {
+            "latitude" : 42.33353963647656, 
+            "longitude": -71.11948015565322
+        },
+        "phoneNumber": "1-617-277-4466",
+        "hours": { 
+            "Sunday" : " Closed",
+            "Monday" : " Closed",
+            "Tuesday" : " 4:30 - 9:00",
+            "Wednesday" : " 4:30 - 9:00",
+            "Thursday" : " 4:30 - 9:00",
+            "Friday" : " 4:30 - 9:00",
+            "Saturday" : " 2:30 - 9:00"
+    },
+        "about": "Unpretentious storefront dishes out hearty portions of Turkish & Mediterranean eats."
+    },
+    {
+        "id": 5,
+        "name": "Orinoco Brookline Village",
+        "cuisine": "Latin American",
+        "address": "22 Harvard St, Brookline, MA 02445",
+        "latitudeAndLongitude": {
+            "latitude" : 42.333934737090054, 
+            "longitude": -71.1187767153528
+        },
+        "phoneNumber": "1-617-232-9505",
+        "hours": { 
+            "Sunday:" : " Closed",
+            "Monday:" : "  5:30 - 9:00",
+            "Tuesday:" : "  Closed",
+            "Wednesday:" : "  7:30 - 11:00",
+            "Thursday:" : "  7:30 - 11:00",
+            "Friday:" : "  5:30 - 12:00",
+            "Saturday:" : "  5:30 - 12:00"
+    },
+        "about": "No-reservations Venezuelan eatery known for smoky arepas, served in a cozy, Latin-accented space."
+    },
+    {
+        "id": 6,
+        "name": "Wu Er by WOW Barbecue",
+        "cuisine": "Chinese",
+        "address": "320 Washington St, Brookline, MA 02445",
+        "latitudeAndLongitude": {
+            "latitude" : 42.33339007252889, 
+            "longitude": -71.12019738884995
+        },
+        "phoneNumber": "1-617-566-8858",
+        "hours": { 
+            "Sunday:" : " 11:30 - 10:00",
+            "Monday:" : "  11:30 - 10:00",
+            "Tuesday:" : "  11:30 - 10:00",
+            "Wednesday:" : "  11:30 - 10:00",
+            "Thursday:" : "  7:30 - 11:00",
+            "Friday:" : "  11:30 - 10:30",
+            "Saturday:" : "  11:30 - 10:30"
+    },
+        "about": "Unique meat skewers & Chinese tapas are the highlight at this Beijing back alley-style spot."
+    }
+]

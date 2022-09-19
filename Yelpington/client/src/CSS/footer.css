@@ -1,0 +1,9 @@
+#foot-name{
+    position: absolute;
+    bottom: 0;
+    background-color: #D8C3A5;
+    margin: 0;
+    width: 100%;
+    padding: 1em;
+    text-align: center;
+}

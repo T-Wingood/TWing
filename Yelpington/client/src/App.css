@@ -1,0 +1,28 @@
+*{
+  background-color: #EAE7DC;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+#wrapper-map{
+  display: flex;
+  margin: 3.5em;
+  justify-content: space-around;
+}
+
+#rest-list{
+  border: #8E8D8A 0.2em solid;
+  width: 20rem;
+  padding: 1em;
+}
+
+#description{
+  border: #8E8D8A 0.2em solid;
+  width: 30rem;
+  padding: 1em;
+  overflow: auto;
+  height: 40rem;
+}
+
+#big-map{
+  border: #8E8D8A 0.2em solid;
+}

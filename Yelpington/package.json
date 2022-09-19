@@ -1,0 +1,25 @@
+{
+  "name": "yelpington",
+  "version": "1.0.0",
+  "description": "Burlington Code Academy restaurant app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node sanityCheck.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BurlingtonCodeAcademy/yelpington.git"
+  },
+  "author": "Burlington Code Academy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BurlingtonCodeAcademy/yelpington/issues"
+  },
+  "homepage": "https://github.com/BurlingtonCodeAcademy/yelpington#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.19"
+  }
+}

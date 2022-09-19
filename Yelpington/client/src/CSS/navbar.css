@@ -1,0 +1,11 @@
+#nav-header {
+    text-align: left;
+    margin:0.5em
+}
+
+#navlink {
+    font-size: large;
+}
+ul>li{
+    list-style: none;
+}
